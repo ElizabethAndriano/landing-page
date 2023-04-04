@@ -1,0 +1,16 @@
+* {
+    font-family: "roboto", sans-serif;
+    margin: 0;
+}
+
+.header,.first-section,.footer {
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+div {
+    display: flex;
+}
