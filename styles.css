@@ -5,10 +5,24 @@
 
 .header,.first-section,.footer {
     background-color: #1F2937;
+    color: #F9FAFB;
 }
 
 .quote {
     background-color: #E5E7EB;
+}
+
+.call-action {
+    background-color: #3B82F6;
+    color: #F9FAFB;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #3B82F6;
+    color: #F9FAFB;
+    border-radius: 10px;
 }
 
 div {
