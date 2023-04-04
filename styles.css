@@ -58,6 +58,31 @@ h1 {
     flex: auto;
 }
 
+.second-section {
+    display: block;
+    padding: 50px 250px 80px;
+    text-align: center;
+    color: #78808A;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    padding-bottom: 50px;
+    color: #1F2937;
+}
+
+.images {
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.images > div {
+    flex-direction: column;
+    padding: 20px;
+}
+
+
 .quote {
     background-color: #E5E7EB;
 }
