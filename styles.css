@@ -119,6 +119,7 @@ h3 {
 
 button {
     background-color: #3B82F6;
+    border: 0px solid #E5E7EB;
     color: #F9FAFB;
     border-radius: 10px;
     font-size: 18px;
